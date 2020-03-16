@@ -1,0 +1,16 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/EF.DI/EF.DI/EF.Core/obj
+/EF.DI/EF.DI/EF.Data/obj/Debug
+/EF.DI/EF.DI/EF.DI/obj/Debug
+/EF.DI/EF.DI/EF.Service/obj/Debug
+/.vs
+/EFCoreConcurrency/EFCoreConcurrency/EFCoreConcurrency/obj
+/EFCoreConcurrency/EFCoreConcurrency/EFCore.Model/obj
+/EFCoreConcurrency/EFCoreConcurrency/.vs/EFCoreConcurrency
+/EFUnitOfWork/EFUnitOfWork/EF.Data/obj
+/EFUnitOfWork/EFUnitOfWork/EF.Core/obj
+/EFUnitOfWork/EFUnitOfWork/.vs/EFUnitOfWork
+/EntityFramework6/EntityFramework6/EntityFramework6/obj
